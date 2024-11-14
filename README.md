@@ -10,4 +10,9 @@ This project is a simple hangman game that is coded to have the user guess words
 
 ##Installation
 
-To install, use a python supporting app and run the code from the HANGMAN.py file.
+To install:
+1. Do not change the document names
+1. Download the images provided
+2. Download the .txt file
+3. Use a python supporting app and run the code from the HANGMAN.py file
+4. Enjoy the game
