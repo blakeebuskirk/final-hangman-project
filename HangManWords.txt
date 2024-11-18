@@ -1,71 +1,81 @@
-fruit
-apple
-banana
-orange
-lime
-lemon
-strawberry
-blueberry
-blackberry
-avacado
-cucumber
-pickle
-onion
-vegetable
-lasagna
-quiz
-haiku
-abruptly
-haphazard
-hello
-goodbye
-kiwi
-pineapple
-punch
-icebox
-hockey
-rugby
-basketball
-baseball
-volleyball
-lacrosse
-badminton
-football
-soccer
-ping pong
-track
-high jump
-pole vault
-injury
-rhythm
-absurd
-blue
-red
-purple
-indigo
-violet
-yellow
-azure
-silver
-gold
-black
-white
-haze
-lavender
-ivory
-ivy
-poison
-jackpot
-bayou
-askew
-avenue
-bookworm
-boxcar
-peanut butter
-vanilla
-chocolate
-joking
-guess
 cobweb
 cockiness
 unknown
+gunslinger
+outlaw
+cowboy
+sheriff
+cactus
+saloon
+wanted
+deputy
+rodeo
+stagecoach
+dynamite
+goldrush
+bounty
+desperado
+rustler
+lasso
+horse
+wagon
+saddle
+tumbleweed
+bandit
+marshal
+pioneer
+sixshooter
+homestead
+revolver
+rifle
+frontier
+showdown
+dual
+highnoon
+vigilante
+boots
+barrel
+ranch
+tombstone
+spurs
+Wyatt Earp
+Duster
+Prospector
+Cattle
+Bronco
+Stetson
+Belt
+Corral
+Shootout
+Chuckwagon
+hitching
+dusty
+saloons
+longhorn
+rancher
+buckaroo
+vest
+tipped hat
+Deputy
+cowpoke
+branding iron
+sundown
+roundup
+saddlebags
+bunkhouse
+shooting iron
+golden nugget
+wanted posters
+silver bullet
+barbed wire
+outlaws den
+spittoon
+cavalry
+wagon train
+desert oasis
+stampede
+horse thief
+robbery
+train car thief
+railroads
+lookout
