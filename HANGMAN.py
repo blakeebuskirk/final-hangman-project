@@ -56,9 +56,10 @@ class HANGMAN:			#hangman class defined to create variables
 		#buttons created for each letter to be chosen/guessed
 		letter_buttons = [
 			[
+				
 				sg.Button(	#For each letter
 					button_text = f" {letter} ",	#the letter is set to the text
-					font = "Arial 20",				#Font chosen
+					font = "Courier 20",				#Font chosen
 					border_width = 0,				#for a flat button
 					button_color = ('green on white'),	#colors chosen
 					key=f"-letter-{letter}-",			#the identifier for each button
@@ -74,14 +75,15 @@ class HANGMAN:			#hangman class defined to create variables
 					sg.Frame(	#holds buttons in a frame
 						"Letters",	#Title
 						letter_buttons,		#list of the buttons	
-						font = "Arial 20",	#font and size
+						font = "Any 20",	#font and size
 					),
-					sg.Sizer(),			#Spaces out other frames
+					sg.Sizer(h_pixels=300),			#Spaces out other frames
 				]
 			
 			]
-		
+			
 		)
+	
 	
 
 	def _Word_Guessed_Created_Frame(self):		#define frame for the letters being guessed
