@@ -353,14 +353,14 @@ class HANGMAN:			#hangman class defined to create variables
 			GameAnswer = sg.PopupYesNo(			#gives a statement for congratulations and if play again
 				"You have won!! Proving to be the best wordslinger in the wild west ;)!\n"
 				f"Making you have {self._Games_Won} wins out of {self._Games_Played} games played!\n"
-				"Would You Like to PLay Another Round?",
+				"Would You Like to Play Another Round?",
 				title = "WordSlinger",		#displays the games won out of played, title of window
 			)
 		else:
 			GameAnswer = sg.PopupYesNo(		#when player loses, displayes statement of sorry, the word, and total of won out of played
 				f"Aw darn that's too bad, you have lost this game. The word was '{self._target_word}'.\n"
 				f"Making you have {self._Games_Won} wins out of {self._Games_Played} games played!\n"
-				"Would You Like to PLay Another Round?",
+				"Would You Like to Play Another Round?",
 				title = "Wanted Outlaw for Losing",	#window title
 			)
 		self.Quit_Game = GameAnswer == "No"	#if player selects no the game will exit
