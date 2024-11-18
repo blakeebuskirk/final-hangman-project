@@ -1,6 +1,6 @@
 # HangMan Game Project
 
-This project is a simple hangman game that is coded to have the user guess words and the hangman figure is included.
+This project is a simple hangman game that is coded to have the user guess words and the hangman figure is included using a GUI.
 
 ##Features
 
@@ -11,6 +11,7 @@ This project is a simple hangman game that is coded to have the user guess words
 ##Installation
 
 To install:
+1. cd to file, python venv venv, venv\scrips\activate
 1. pip install pysimplegui on command prompt/git bash
 2. pip install ascii on command prompt/git bash
 3. pip install pyfonts on command prompt/git bash
