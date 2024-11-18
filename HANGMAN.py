@@ -381,4 +381,4 @@ if __name__ == "__main__":			#Script executed
 			Game.to_process_the_event(event_id)				#processes the event
 		if not Game.Quit_Game:							#checks if player will play again
 			Game.Game_Winner_Check()					#checks win or lose
-	Game.close()								#closes the game
+	Game.Game_Close()								#closes the game
